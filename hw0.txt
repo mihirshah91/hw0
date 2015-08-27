@@ -1,11 +1,11 @@
 Basic information:
 
 - First name (how you prefer to be called):
-- Cornell netid:
-- GitHub login:
-- Status (audit/enrolled/etc):
-- Level (ugrad/MEng/PhD/etc):
-- Major:
+- Cornell netid: 
+- GitHub login: mihirshah91
+- Status (audit/enrolled/etc): not yet enrolled
+- Level (ugrad/MEng/PhD/etc): MEng
+- Major: computer science
 
 Indicate level of comfort with the following on a five-point scale
 (1 = I've never heard of it, 3 = I can get by, 5 = I know a lot).
